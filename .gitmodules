@@ -1,9 +1,9 @@
 [submodule "ilastik"]
 	path = ilastik
-	url = https://github.com/ilastik/ilastik
+	url = https://github.com/vibbits/ilastik
 [submodule "volumina"]
 	path = volumina
-	url = https://github.com/ilastik/volumina
+	url = https://github.com/vibbits/volumina
 [submodule "lazyflow"]
 	path = lazyflow
-	url = https://github.com/ilastik/lazyflow
+	url = https://github.com/vibbits/lazyflow
